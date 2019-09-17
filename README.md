@@ -21,7 +21,7 @@ Usage guideline:
   LIMIT  
   100000"  
   3-Save the results into Drive(it allows upload up to 1 GB)  
-  4- Open one of the "TF-IDF" or "Minhashşng-LSH" files in Google Colab  
+  4- Open one of the "TF-IDF" or "Minhashing-LSH" files in Google Colab  
   5- Implement first cell and by following the orders create the link between Colab and Drive  
   6- Implement the rest cells in order until the console wants an input  
   7- Type your input and implement rest of the cells   
