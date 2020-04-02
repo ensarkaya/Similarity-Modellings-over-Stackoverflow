@@ -5,7 +5,7 @@
     Technologies: Google BigQuery, Google Colab  
   We used 2 different main algorithms in implementations:  
     1-Shingling-Minhashing-Locality Sentive Hashing  
-    2-Term Frequence-Inverse Document Frequence  
+    2-Term Frequency-Inverse Document Frequency  
 
 Usage guideline:   
   1-Go to Google's BigQuery and open find stackoverflow from datasets.  
